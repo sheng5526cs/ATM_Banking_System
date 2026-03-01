@@ -7,10 +7,6 @@
 [![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen.svg)]()
 
 > **企業級自動櫃員機模擬系統** - 運用現代 C++ 技術與 Qt 框架開發的完整金融應用程式
-- 第12組
-- 資工1A
-- 吳Ｏ盛   B3230665
-- 陳Ｏ儒   B3208660
 
 
 ## 📖 目錄導航
